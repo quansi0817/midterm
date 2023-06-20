@@ -34,7 +34,7 @@ public class UnoOnline
      * following two rules:
      * 1. The password must be at least length 8
      * 2. The password must contain at least one "special character"
-     * 
+     * 4232
      */
     private void run()
     {
