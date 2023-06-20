@@ -10,6 +10,7 @@ package midtermreviewcodeforpartc;
  * The user has a name and a password.
  * @author sichao, June 2023
  ************** second changed
+ **********
  */
 public class User 
 {
